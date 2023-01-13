@@ -6,6 +6,6 @@ export const NAV_ITEMS: Array<NavItem> = [
       href:"#"
     },
     {
-      label: "Register",
+      label: "Register", // me being pethetic
     }
   ];
